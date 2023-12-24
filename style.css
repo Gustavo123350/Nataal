@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.titulo{
+    text-align: center;
+    z-index: 1;
+    color: darkred;
+    padding: 20px;
+
+}
+.botao{
+    background-color: darkred;
+    color: pink;
+}
+.relogio{
+      display: inline-block;
+      font-size: 24px;
+      color: red;
+      margin-left: 20px;
+}
+.t{
+    color: blueviolet;
+}
